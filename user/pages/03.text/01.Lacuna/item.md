@@ -16,6 +16,9 @@ Loosely inspired by Lewis Carroll’s Alice books, it combines sound, text and i
 ![](LacunaDigitalRealities.003.jpg)
 
 ## Through the Mirror
+
+![](lacuna-entry.jpg)
+
 Before putting on the HMD, the viewer is confronted with a mirror.
 Upon entry into VR this scenario is duplicated and the viewer is able to see him/herself one last time (through a hidden camera) before the whole room starts to shift.
 
@@ -25,10 +28,13 @@ Instead of travelling through a world the world shifts around the spectator, at 
 
 ###The Gaze is Present
 Disembodied, the viewer’s gaze becomes the only instrument of connecting to this space – it leaves traces, activates and builds structures.
-[plugin:vimeo](https://vimeo.com/257996402)
 
+![](_gazer5.gif)
 
 ###Impossible Space
+
+[plugin:vimeo](https://vimeo.com/257996402)
+
 The Lacuna’s architecture rejects its passive role as a trusted, immutable shelter and permits a physically impossible experience of poetic space and a reflection about the fragile relation of the beholder to her/his environment.
 
 ###Architectural Acts

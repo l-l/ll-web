@@ -1,11 +1,11 @@
 ---
-title: Exhibitions
+title: lectures
 body_classes: title-left title-h1h2
 lead: My Friendly Lead
 ---
 ### Lectures & Talks   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
+|  
 --- | --- 
 2015-now| Lecture "Mapping the Data", Art University Linz, 2SWS  
 2015-now| Lecture "Generative Art", FH Hagenberg MTD, 4SWS  

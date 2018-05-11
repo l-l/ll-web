@@ -20,6 +20,10 @@ h6 {
   text-shadow:    -1px -1px 0 #000,      1px -1px 0 #000,    -1px 1px 0 #000,     1px 1px 0 #000;
   text-transform: uppercase;
  */
+ &:first-child
+ {
+   margin-top: 0;
+ }
 }
 .h1,
 .h2,
@@ -108,10 +112,11 @@ u {
 table {
 
     vertical-align:top;
+    font-size: $font-size-sm; 
 }
 th,td{
     vertical-align:top;
-    padding: 5px 5px 5px 5px;
+    padding: 5px 15px 5px 0px;
 }
 
 

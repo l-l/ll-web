@@ -5,7 +5,7 @@ lead: My Friendly Lead
 ---
 ### Exhibitions   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;  
+|
 ------------ | --- 
 2018| Ars Electronica Center, "The Lacuna Shifts", 06.04.–30.08.2018 (Linz, AT)
 2017-18 | O.K. Center "Sinnesrausch", "The Lacuna Shifts", 20.10.2017–2.4.2018 (Linz, AT)
