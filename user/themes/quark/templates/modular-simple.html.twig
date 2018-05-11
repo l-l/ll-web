@@ -1,0 +1,16 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block hero %}
+    {% for module in page.collection() if module.template == 'modular/hero' %}
+    
+        {{ module.content }}
+    {% endfor %}
+{% endblock %}
+
+{% block content %}
+    {% for module in page.collection() if module.template != 'modular/hero' %}
+
+        {{ module.content }}
+        
+    {% endfor %}
+{% endblock %}

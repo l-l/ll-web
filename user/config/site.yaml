@@ -1,0 +1,12 @@
+title: Grav
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+metadata:
+    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+
+summary:
+  enabled: true                             # enable or disable summary of page
+  format: short                             # long = summary delimiter will be ignored; short = use the first occurrence of delimiter or size
+  size: 120                                 # Maximum length of summary (characters)
+  delimiter: ===                            # The summary delimiter

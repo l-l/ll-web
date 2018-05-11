@@ -1,0 +1,62 @@
+// Base
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: $html-font-size;
+  line-height: $html-line-height;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: $body-bg;
+  color: $body-font-color;
+  font-family: $body-font-family;
+  font-size: $font-size;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: $link-color;
+  font-size:0.9em; 
+  outline: none;
+  text-decoration: none;
+  font-family: $link-font-family;
+
+  position: relative;
+  display: inline-block;
+  transition: all .25s cubic-bezier(1, 0, 0.58, 0.97);
+
+  &:focus,
+  &:hover,
+  &:active,
+  &.active {
+    //color: #fff; //$link-color-active;
+    //background: $link-color-active;
+  }
+  }
+
+a:before {
+  content: '';
+  position: absolute;
+  width: 0%;
+  height: .2em;
+  top: calc(50% - 1.5px);
+  right: 0;
+  background: #16151b;
+  transition: inherit;
+}
+
+a:hover:before {
+  left: 0;
+  width: 100%;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set image = page.media.images|first %}
+
+<section id="start">
+    {% block body %}
+   
+            <section class="container {{ grid_size }}">
+                {% block messages %}
+                    {% include 'partials/messages.html.twig' ignore missing %}
+                {% endblock %}
+                {% block content %}
+                   {{content}}
+                {% endblock %}
+            </section>
+     
+    {% endblock %}
+    </section>
