@@ -24,6 +24,8 @@ lead: My Friendly Lead
 2005| FH MultimediaArt, workshop & lecture about audiovisual performance and realtime AV environments  
 2003-4| UPF Master for Digital Arts Program, semester workshop/lecture about “audiovisuales” (Barcelona, Spain)  
 2004| BAU Escola de Disseny, workshop about Macromedia Flash Techniques (Barcelona, Spain)  
+2004| Talk "Asphodel", Transmediale, HdKdW, Berlin
+2004| Lecture "Mythematics", Basics Festival, Salzburg
 
 
 

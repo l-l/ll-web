@@ -38,7 +38,7 @@ $link-color-dark: $link-color-active; // this is the spectre default
 
 // Fonts
 // Credit: https://www.smashingmagazine.com/2015/11/using-system-ui-fonts-practical-guide/
-@import url('https://fonts.googleapis.com/css?family=Asul:400|MedievalSharp|Rubik:500|Space+Mono|Gothic+A1|Overpass|Marcellus|Poppins|Krona+One|Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Marcellus|Krona+One|Inconsolata'); //Rubik:500|Space+Mono|Gothic+A1|Overpass|Poppins|Asul:400|MedievalSharp|
 $base-font-family: "Marcellus",; //-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto !default;
 $mono-font-family: "Inconsolata","Space Mono", "Segoe UI Mono", "Roboto Mono", Menlo, Courier, monospace !default;
 $fallback-font-family: "Helvetica Neue", sans-serif !default;
