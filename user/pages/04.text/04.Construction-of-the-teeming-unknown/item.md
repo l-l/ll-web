@@ -28,6 +28,9 @@ unformation? the yielding unknown.
  When something becomes ordinary it ceases to produce this sensation. Instead of integration this represents a process of distinctionA desirable unknownThere is of course a kind of Unknown that is too detached from our consciousness. One which doesn't resemble anything we know, doesn't share any links or decodeable information.
  Such an Unknown is noise or entropy. It serves a purpose in itself by representing void or emptiness but is useless for our quest for the construction of the *Teeming Unknown*
  
+There is of course a natural decay of understanding through history.
+
+![](weird-classics.jpg)
 
 >People want to know up until the time they know, then they don't care.  
 >*David Lynch, Interview in the Sydney Morning Herald about Twin Peaks (May 2017)*

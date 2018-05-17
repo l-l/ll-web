@@ -48,10 +48,15 @@ objects:
 ###SPATIALITY, ORIENTATION SHOCK AND PORTABLE CATHEDRALS
 
 Virtual reality is to an overwhelming extent architectural—both in terms of its experience and in its design. So, it is hardly surprising that architects have a keen interest in VR for pre-visualisation work. Conversely, however, this very expertise is necessary for any VR work. VR needs virtual architects and their long tradition of psychology and poetics of space. If we look at VR in the sense of the ancient labyrinth myth, would the artist then be Daedalus, the architect? Would the viewer then be the imprisoned Minotaur or Theseus, the hero? Who or what would take over the role of Ariadne and her thread?
+
+![](lass-labyrinth-roles.jpg)
+
 As soon as we enter a building, we begin to read and decrypt it. We look for routes, exits, assess our ability to move around—in short: we orient ourselves.
 While there are spatial transitions in consensus reality that facilitate this decoding work, the entry into VR starts
 with orientation shock. The unexplained “Who am I?” is stressful. Transpose this idea to VR and scene-setting potentially begins before the viewer puts on the HMD. How can we weave the transition from real to virtual
 space into the entire narrative? Does it make sense to bind the virtual to an actual place in order to absorb this disorientation?
+
+![](lass-labyrinth.jpg)
 
 Umberto Eco speaks of the cathedral as a kind of permanent and immutable television programme providing people with advice for their daily lives and their salvation. This literary function of architecture and
 the spatial and sculptural design of information is combined in VR with dynamic and interactive possibilities.
