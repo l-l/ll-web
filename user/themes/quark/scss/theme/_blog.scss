@@ -46,12 +46,16 @@
   }
   .card {
     margin-bottom: 25px;
-    border: 0;
-    box-shadow: 0 10px 45px -9px rgba(0,0,0,0.1);
+    //border: 0;
+   // box-shadow: 0 10px 45px -9px rgba(0,0,0,0.1);
+    height:480px;
   }
 
   .card-footer {
-    text-align: right;
+   // text-align: right;
+    display: flex;
+    align-items: flex-end;
+    height: 100%;
   }
 
   .blog-date {

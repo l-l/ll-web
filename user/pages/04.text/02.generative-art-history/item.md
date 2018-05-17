@@ -51,15 +51,28 @@ We can therefore lay out a few specifics that describe generative art
 - It may be applied to any aesthetic endeavour
 
 
-###A beginning —  <br>Non-technological design systems
+##A beginning —  <br>Non-technological design systems
+### Modular Systems - Combination, Permutation, Aleatorik
+<!-- 
+https://en.wikipedia.org/wiki/Gamebook
+https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure
+Cage
+Surrealist Language Games
 
-One can argue that the use of simple rules and modular design systems is as old as art itself. It can be found in ornaments as early as 5000BC.
+
+-->
+Simple modular systems which are based on the combination and permutation of defined elements date back to the very beginning of art. It can be found in ornaments as early as 5000BC.
 
 ![](slavik-v-jablan--symmetry-ornament-modularity-104.jpg "Slavik V Jablan - Symmetry, Ornament, Modularity (~5700–5000BC), p102ff - mentioned in Alan Dorin, Jonathan McCabe, Jon McCormack, Gordon Monro & Mitchell Whitelaw (2012) A framework for understanding generative art")
 
 
 The conceptual core of generative design is therefore not only not exclusively digital but not even restricted to technology. The means that the execution of an autonomous system can also rely on people following a set of rules. 
 Of course since most households nowadays sport a potent machinery that is created to do just that, the popularity of generative design has strong bounds to the digital age. Nevertheless there are poignant modern examples that build on the original idea.
+
+####Musikalisches Würfelspiel
+[wiki](https://en.wikipedia.org/wiki/Musikalisches_W%C3%BCrfelspiel)
+
+
 In 1968, Sol LeWitt began creating his wall drawings, which consist solely of written instructions and diagrams for others to execute: 
 
 ![](Sol-LeWitt-WallDrawing260-1975.jpg "Sol LeWitt - Wall Drawing #260, 1975")
@@ -88,6 +101,24 @@ Jean Tinguely exhibits the drawing machine as a sculpture in motion which produc
 He illustrates the meta quality not only by its titles but also by referring to ideologic predecessors in art history.
 
 ![](Jean-Tinguely---Meta-Malevic.jpg "Jean Tinguely - Méta-Malevich (1954) - https://www.youtube.com/watch?v=WkFtzlBTGs8")
+
+
+###Natural Systems as Art Objects
+
+In 1965 Hans Haacke wrote the following note:
+
+...make something which experiences, reacts to its environment, changes, is nonstable...  
+**...make something indeterminate, that always looks different, the shape of which cannot be predicted precisely...**  
+...make something that cannot “perform” without the assistance of its environment...  
+...make something sensitive to light and temperature changes, that is subject to air currents and depends, in its functioning, on the forces of gravity...  
+...make something the spectator handles, an object to be played with and thus animated...  
+**...make something that lives in time and makes the “spectator” experience time...**  
+...articulate something natural...  
+
+![](Hans-Haacke--Condensation-Cube-1963-65.jpg "Hans Haacke - Condensation Cube, 1963-65")
+
+
+
 
 ####Early (analogue) computer art
 

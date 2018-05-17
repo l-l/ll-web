@@ -160,7 +160,7 @@ blockquote {
 // Lists
 ul,
 ol {
-  margin: $unit-4 0 $unit-4 $unit-8;
+  margin: $unit-4 0 $unit-4  $unit-4 ;
   padding: 0;
 
   ul,
@@ -170,14 +170,22 @@ ol {
 
   li {
     margin-top: $unit-5;
+    //padding-left: 100px;
   }
+  /*
+  li:before
+   {
+    content: "—"; 
+    padding-right: $unit-4;
+   }
+   */
 }
 
 ul {
-  list-style: disc;
+  list-style:  disc;
 
   ul {
-    list-style-type: circle;
+    list-style-type:  circle;
   }
 }
 

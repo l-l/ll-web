@@ -1,5 +1,5 @@
 ---
-title: The uncaptured image
+title: VR - The uncaptured image
 body_classes: title-left title-h1h2
 visible: false
 taxonomy:
