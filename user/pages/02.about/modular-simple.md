@@ -1,6 +1,6 @@
 ---
-title: Vita Modular
-menu: Vita
+title: About
+menu: About
 onpage_menu: false
 body_classes: title-left title-h1h2
 

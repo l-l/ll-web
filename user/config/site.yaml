@@ -1,9 +1,9 @@
-title: Grav
+title: Leonhard Lass
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: Leonhard Lass
+  email: 'leo@depart.at'
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    description: 'Leonhard Lass is a visual artist, designer and lecturer dealing with generative design, generative arts, interface design'
 
 summary:
   enabled: true                             # enable or disable summary of page

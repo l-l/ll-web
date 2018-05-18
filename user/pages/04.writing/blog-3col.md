@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Writing
 body_classes: title-left title-h1h2
 show_sidebar: false;
 show_pagination: true;
@@ -12,5 +12,5 @@ content:
     items: '@self.children'
    
 ---
-# Articles
-Nssotes, Essays and transcribed presentations.
+# Writing
+Notes, Essays and transcribed presentations.
