@@ -1,9 +1,9 @@
 ---
-title: Constructing a Teeming Unknown
+title: Mythematics - Constructing a Teeming Unknown
 body_classes: title-left title-h1h2
 visible: false
 taxonomy:
-    tag: [VR, article]
+    tag: [algoritual, essay]
     author: ll
     category: [article]
 ---
@@ -15,8 +15,8 @@ One of my core interests as an artist is the construction of indefinate yet stim
 I've recently discovered Kenya Hara's book “Ex-Formation” in which he poignantly expresses the core motivation behind 
 
 
->What moves poeple's hearts, in every case, is the unknown. Things that people already know don't excite them.
->*Kenya Hara, Ex-Formation*
+>What moves poeple's hearts, in every case, is the unknown. Things that people already know don't excite them.  
+>[*Kenya Hara, Ex-Formation*](https://www.lars-mueller-publishers.com/ex-formation?classes=tiny)
 
 The unknown represents a potential. It draws attention, it sparks our imagination, it gets attacked by our analytic minds, it sparks curiosity and desire.
 unformation? the yielding unknown.
@@ -25,7 +25,11 @@ unformation? the yielding unknown.
  In order to make it known we need to take it apart and link it to our current understanding.
  The creation of links and relations to something we already know is very strong - it is a process of integration, it elevates our self by making it our consciousness more complex (> Mihaly Csikszentmihalyi). It unifies our self with the subject, history, concepts, people and objects and represents a form of enlightenment. 
  
- When something becomes ordinary it ceases to produce this sensation. Instead of integration this represents a process of distinctionA desirable unknownThere is of course a kind of Unknown that is too detached from our consciousness. One which doesn't resemble anything we know, doesn't share any links or decodeable information.
+ When something becomes ordinary it ceases to produce this sensation. Instead of integration this represents a process of distinction
+ 
+ ###A desirable unknown
+ 
+ There is of course a kind of Unknown that is too detached from our consciousness. One which doesn't resemble anything we know, doesn't share any links or decodeable information.
  Such an Unknown is noise or entropy. It serves a purpose in itself by representing void or emptiness but is useless for our quest for the construction of the *Teeming Unknown*
  
 There is of course a natural decay of understanding through history.
@@ -33,7 +37,7 @@ There is of course a natural decay of understanding through history.
 ![](weird-classics.jpg)
 
 >People want to know up until the time they know, then they don't care.  
->*David Lynch, Interview in the Sydney Morning Herald about Twin Peaks (May 2017)*
+>[*David Lynch, Interview in the Sydney Morning Herald about Twin Peaks (May 2017)*](https://www.smh.com.au/entertainment/tv-and-radio/david-lynch-on-the-return-of-twin-peaks-and-why-he-will-never-make-another-film-20170416-gvlr60.html?classes=tiny)
  
  ##Things that are several things -
  ###Arrangement, Collage and Context  

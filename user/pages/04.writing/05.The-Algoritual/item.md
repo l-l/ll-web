@@ -3,13 +3,13 @@ title: The Algoritual
 body_classes: title-left title-h1h2
 visible: false
 taxonomy:
-    tag: [VR, article]
+    tag: [generative, algoritual, essay]
     author: ll
     category: [article]
 ---
 
 <span class="large-p"> 
-The unknown represents a potential. It draws attention, it sparks our imagination, it gets attacked by our analytic minds, it sparks curiosity and desire.
+The Algorithm represents the core device for digital manifestations. It bears resemblance both with a magic spell and a ritual if we consider it from a potential perspective of language and myth. 
 
 </span>
 

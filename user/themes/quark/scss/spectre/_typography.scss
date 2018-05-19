@@ -160,12 +160,12 @@ blockquote {
 // Lists
 ul,
 ol {
-  margin: $unit-4 0 $unit-4  $unit-4 ;
+  margin: $unit-4 0 $unit-4  $unit-16 ;
   padding: 0;
 
   ul,
   ol {
-    margin: $unit-4 0 $unit-4 $unit-8;
+    margin: $unit-4 0 $unit-4 $unit-16;
   }
 
   li {
