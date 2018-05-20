@@ -1,0 +1,26 @@
+{% set grid_size = theme_var('grid-size') %}
+{% set coll = page.collection() %}
+{% set sum = coll.first() %}
+
+
+
+{% block content %}
+
+<a name={{"'#{sum.title}-hide'"}}></a>
+<a name={{"'#{sum.title}'"}}></a>
+<div class="moreless" id="{{"#{sum.title}"}}"> 
+    
+    <span class="lead-p"  >
+        {{coll.first().content}}
+    </span>
+    
+    <a class="more button" href= {{"##{sum.title}"}}  >more</a>
+    <article>
+          {{coll.last().content}}
+    </article>
+   <a class="less button" href={{"##{sum.title}-hide"}} >less</a>
+
+</div>
+
+
+{% endblock %}

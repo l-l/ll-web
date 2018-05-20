@@ -1,0 +1,18 @@
+.moreless article,
+.less {
+	display: none;
+}  
+
+.moreless:target article,
+.moreless:target .less {
+    display: table;
+    transition-duration: 0.5s;
+} 
+
+.moreless:target .more {
+	display: none;
+}       
+
+.moreless {
+    padding-top: $unit-16;
+}

@@ -9,4 +9,4 @@ summary:
   enabled: true                             # enable or disable summary of page
   format: short                             # long = summary delimiter will be ignored; short = use the first occurrence of delimiter or size
   size: 120                                 # Maximum length of summary (characters)
-  delimiter: ===                            # The summary delimiter
+  delimiter: ===                            # The summary delimiter 
