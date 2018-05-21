@@ -10,11 +10,11 @@ taxonomy:
 
 <span class="large-p"> 
 The reality melting abilities of VR and its metaphoric references were the starting point for an artistic exploration of the medium that lead to [The Lacuna Shifts](http://depart.at/portfolio/the-lacuna-shifts/) – a spatio-poetic VR experience whicht transports the visitor to a place behind the mirror. 
-
 </span>
-When asked by sound:frame and OK to create an artwork for the context of Alice in Wonderland the choice of VR struck us as the perfect fit. 
 
-The Lacuna is a volatile room that keeps changing around its guest – shifting in scale and mutating its architectural features – while revealing traces of poetic narratives. Loosely inspired by Lewis Carroll’s Alice books, it combines sound, text and imagery into an alternate surreality.
+When asked by [sound:frame](http://soundframe.at) and [OK Linz](http://www.ok-centrum.at/) to create an artwork relating to [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) the choice of VR struck us as the perfect fit. 
+
+Inspired by Lewis Carroll’s books we created the "Lacuna" – a volatile space that keeps changing around its guest – shifting in scale and mutating its architectural features – while revealing traces of poetic narratives. 
 
 ![](LacunaDigitalRealities.003.jpg)
 
@@ -22,6 +22,7 @@ The Lacuna is a volatile room that keeps changing around its guest – shifting 
 
 ![](lacuna-entry.jpg)
 
+The first thing that struck us is the accepted harshness of the transition – if it can even be called one – into VR. 
 Before putting on the HMD, the viewer is confronted with a mirror.
 Upon entry into VR this scenario is duplicated and the viewer is able to see him/herself one last time (through a hidden camera) before the whole room starts to shift.
 
