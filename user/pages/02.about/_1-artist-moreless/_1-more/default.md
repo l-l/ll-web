@@ -5,7 +5,7 @@ body_classes: title-left title-h1h2
 ---
 Since 1999, he has been working with Gregor Ladenhauf as Depart on audiovisual installations and performances.
 
-### Exhibitions   
+##### Exhibitions   
 
 |
 ------------ | --- 
