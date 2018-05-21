@@ -4,6 +4,8 @@ body_classes: title-left title-h1h2
 
 ---
 
+Leonhard Lass
+
 +43 699 11 47 47 26  
 [mail](mailto:leo@depart.at)
 

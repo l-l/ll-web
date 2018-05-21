@@ -12,5 +12,7 @@ content:
     items: '@self.children'
    
 ---
+
 # Writing
+
 Notes, Essays and transcribed presentations.
