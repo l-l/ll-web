@@ -16,7 +16,7 @@
     text-transform:uppercase;
     font-size:0.8em;
 
-  
+
     
   }
   a:hover:before {
@@ -29,7 +29,6 @@
     width: auto;
     background: none!important;
   }
-
   .logo svg path {
     fill: $header-color-dark;
   }
@@ -48,6 +47,7 @@
     }
     .logo svg path {
       fill: $light-color;
+      
     }
   }
 
@@ -66,7 +66,7 @@
   }
 
   .logo svg {
-    width: 150px;
+    height: $header-height-large;;
     display: inherit;
 
     @extend .default-animation;
@@ -90,7 +90,7 @@ body.header-fixed.header-animated {
     }
 
     .logo svg {
-      width: 100px;
+      height:  $header-height-small;
     }
 
     ~ .mobile-menu .button_container {

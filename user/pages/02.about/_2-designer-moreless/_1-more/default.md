@@ -4,6 +4,7 @@ body_classes: title-left title-h1h2
 
 ---
 Since 2003 he is self-employed as a digital artist, designer and occasionally creative coder. He has a strong conceptual focus and combines both visual and technical skills. 
+Apart from client work Leonhard enjoys developing dynamic identities for his extended network including festivals, record labels and musicians. 
 
 At the moment he works part-time in the product team of [whatchado](http://whatchado.com) to develop their design system and elevate their user experience. 
 

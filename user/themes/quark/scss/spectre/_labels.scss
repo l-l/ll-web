@@ -17,7 +17,8 @@
   }
 
   &.label-secondary {
-    @include label-variant($primary-color, $secondary-color);
+    // @include label-variant($primary-color, $secondary-color);
+    @include label-variant($primary-color, #eee);
   }
 
   &.label-success {

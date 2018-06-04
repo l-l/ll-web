@@ -24,8 +24,9 @@
   &:focus,
   &:hover {
     background: $secondary-color;
-    border-color: $primary-color-dark;
+    border-color: $secondary-color;//$primary-color-dark;
     text-decoration: none;
+    color:white;
   }
   &:active,
   &.active {

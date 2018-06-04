@@ -4,4 +4,4 @@ body_classes: title-left title-h1h2
 
 ---
 ### Designer
-As a designer he employs a multidisciplinary approach focusing on generative design, user interfaces and design systems. 
+As a designer he employs a sporty multidisciplinary approach focusing on generative design ![](generative.jpg?classes=inline-img), UI/UX and design systems. 
