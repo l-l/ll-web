@@ -1,6 +1,7 @@
 ---
 title: VR - The uncaptured image
 body_classes: title-left title-h1h2
+publish_date: 01/23/2018
 visible: false
 taxonomy:
     tag: [VR, article]

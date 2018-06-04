@@ -1,6 +1,7 @@
 ---
 title: A History of Generative Art & Design
 body_classes: title-left title-h1h2
+date: 01-01-2018
 visible: false
 taxonomy:
     tag: [generative, article]

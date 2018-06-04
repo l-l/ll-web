@@ -1,5 +1,6 @@
 ---
 title: Virtual Surreality - The Lacuna Shifts
+date: 01-01-2018
 body_classes: title-left title-h1h2
 visible: false
 taxonomy:
@@ -14,7 +15,7 @@ The reality melting abilities of VR and its metaphoric references were the start
 
 When asked by [sound:frame](http://soundframe.at) and [OK Linz](http://www.ok-centrum.at/) to create an artwork relating to [Alice in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) the choice of VR struck us as the perfect fit. 
 
-Inspired by Lewis Carroll’s books we created the "Lacuna" – a volatile space that keeps changing around its guest – shifting in scale and mutating its architectural features – while revealing traces of poetic narratives. 
+Inspired by Lewis Carroll’s books we created the “Lacuna” – a volatile space that keeps changing around its guest – shifting in scale and mutating its architectural features – while revealing traces of poetic narratives. 
 
 ![](LacunaDigitalRealities.003.jpg)
 
@@ -22,9 +23,9 @@ Inspired by Lewis Carroll’s books we created the "Lacuna" – a volatile space
 
 ![](lacuna-entry.jpg)
 
-The first thing that struck us is the accepted harshness of the transition – if it can even be called one – into VR. 
-Before putting on the HMD, the viewer is confronted with a mirror.
-Upon entry into VR this scenario is duplicated and the viewer is able to see him/herself one last time (through a hidden camera) before the whole room starts to shift.
+The first thing that struck us is the accepted harshness of the transition into VR – if it can even be called one. We wanted to address this and create a clear entry scenario, that would tie the physical and the virtual place together - with an obvious [reference to Alice](https://en.wikipedia.org/wiki/Through_the_Looking-Glass).
+
+Before putting on the HMD, the viewer is confronted with a mirror. Upon entry into VR this scenario is duplicated and the viewer is able to see him/herself one last time (through a hidden camera) before the whole room starts to shift.
 
 Instead of travelling through a world the world shifts around the spectator, at times covertly behind the back, sometimes in plain sight.
 
